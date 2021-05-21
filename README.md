@@ -1,6 +1,5 @@
-### Hi there 👋
+### Welcome to my profile 👋
+
+- Discord bot developer
 
 
-
-- 🌱 I’m currently learning Javascript
-- ⚡ Fun fact: I'm still learning
