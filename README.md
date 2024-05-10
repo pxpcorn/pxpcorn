@@ -1,3 +1,3 @@
-![Pepe_loop](https://github.com/pxpcorn/pxpcorn/assets/43969236/16e14450-b7ae-4501-abd3-ee9c1fe2f012)
+![Logo gif](https://github.com/pxpcorn/pxpcorn/assets/43969236/1c501403-89f6-4cbe-9f95-db88bf7cd1b2)
 
 [![](https://dcbadge.limes.pink/api/server/autismcrew)](https://discord.gg/autismcrew)
