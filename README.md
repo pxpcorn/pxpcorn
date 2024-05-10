@@ -1,1 +1,1 @@
-<img src="https://discordapp.com/api/guilds/[366274666941251585]/widget.png?style=banner4" alt="Discord Banner 4"/>
+[![](https://dcbadge.limes.pink/api/server/autismcrew)](https://discord.gg/INVITE)
